@@ -1,0 +1,12 @@
+spacy==2.3.0
+scispacy==0.2.5
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.5/en_core_sci_sm-0.2.5.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.5/en_ner_bc5cdr_md-0.2.5.tar.gz
+pykeen==1.3.0
+rank_bm25
+ir-datasets
+rake_nltk
+transformers
+pyserini==0.12.0
+jsonlines
+beir==0.2.0
